@@ -1,0 +1,4 @@
+1) Create an account in https://machinelearningforkids.co.uk/ 
+2) Under Projects "copy Titanic Survivor Template"
+3) Train the sample data, Test the Data using Google colab or scratch
+4) Paste the output screenshot with yourname inside this folder
