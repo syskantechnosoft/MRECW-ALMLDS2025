@@ -15,3 +15,5 @@ Bhargavi -- https://colab.research.google.com/drive/1yrnbcFaIHuFIZBUbNbZ_N-b7I7I
 Shylaja --https://colab.research.google.com/drive/1yf7Gwthmu9lnnHutsQecdY0nQtrkHjMB?usp=sharing
 Vasavi --https://colab.research.google.com/drive/1EDiEjWjPRgYIvasUGls0tgpz8T4LvELs#scrollTo=1XJOF6V1hAvt
 Ratna Priya --https://github.com/syskantechnosoft/MRECW-ALMLDS2025/blob/main/Day8%20Machine%20Learning/colablinks.txt
+Irfana -- https://colab.research.google.com/drive/1zUboDNgM0Vu_X5K5aNfDkzpzAVdSg1hX#scrollTo=UhW4zSrSjX76
+VijayaSri -- https://colab.research.google.com/drive/1NC_jXlvbN8gIKOtXV3vqsWAeYpBtEVnw#scrollTo=qmUuPo7YiqhJ
