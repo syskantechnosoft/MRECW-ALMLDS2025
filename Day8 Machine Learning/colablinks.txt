@@ -17,3 +17,4 @@ Vasavi --https://colab.research.google.com/drive/1EDiEjWjPRgYIvasUGls0tgpz8T4LvE
 Ratna Priya --https://github.com/syskantechnosoft/MRECW-ALMLDS2025/blob/main/Day8%20Machine%20Learning/colablinks.txt
 Irfana -- https://colab.research.google.com/drive/1zUboDNgM0Vu_X5K5aNfDkzpzAVdSg1hX#scrollTo=UhW4zSrSjX76
 VijayaSri -- https://colab.research.google.com/drive/1NC_jXlvbN8gIKOtXV3vqsWAeYpBtEVnw#scrollTo=qmUuPo7YiqhJ
+Gayatri --https://colab.research.google.com/drive/10o0jSmOXye4iZzZ9Xmix7kS6mXXE5CXY#scrollTo=mTas3rJdkum2
