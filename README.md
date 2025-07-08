@@ -18,3 +18,6 @@ https://www.geeksforgeeks.org/python/basics-of-numpy-arrays/
 
 
 https://medium.com/@kelechiuzoukwu/superstore-sales-analysis-with-python-ee971d45ba9a
+
+
+https://drive.google.com/drive/u/1/folders/13dMkBJnRUj92SBeDrGz4U9EKmkxx8QX9
